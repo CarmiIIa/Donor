@@ -1,0 +1,60 @@
+body {
+    font-family: 'Lato', sans-serif;
+    /* background-image: url(../img/spons.jpg);
+    background-size: 5%; */
+    background-color: antiquewhite;
+}
+
+.container {
+  margin-top: 80px;
+}
+
+
+.card1{
+    max-width: 1500px;
+    margin-top: 200px;
+}
+
+h4{
+    margin-left: 200px;
+}
+
+.button1{
+    margin-left: 930px;
+    
+}
+
+
+
+.btnn{
+    
+    background-color: rgb(255, 0, 0);
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+    }
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+
+}
+
+.card{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.controls {
+    margin-bottom: 10px;
+    margin-left: 2px;
+}
+
